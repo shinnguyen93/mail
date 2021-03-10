@@ -1,0 +1,9 @@
+textarea {
+    min-height: 400px;
+}
+
+.email{
+    background-color: burlywood;  
+    border: black;
+    border-style: solid;
+}
